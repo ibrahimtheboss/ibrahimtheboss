@@ -1,6 +1,6 @@
 # 👨‍💻 Ibrahim Hakam  
 
-**Senior Software Engineer** | Backend Systems | AI & Automation  
+**Senior Software Engineer** | Software Systems | AI & MVP  
 
 ---
 

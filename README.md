@@ -14,7 +14,7 @@ My work bridges **robust backend engineering** with **modern integrations**—fr
 - **Backend Systems**: C#, .NET, SQL Server, API design  
 - **Frontend**: React, component-driven UI, clean user flows    
 - **AI & Automation**: NLP, speech analysis, OpenAI integrations, process automation  
-- **Ops & Delivery**: IIS, CI/CD pipelines, Cloudflare, deployment strategies  
+- **Ops & Delivery**: IIS, Cloudflare, deployment strategies  
 
 ---
 
@@ -52,7 +52,7 @@ My work bridges **robust backend engineering** with **modern integrations**—fr
 
 
 ### 📊 GitHub Stats  
----![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimtheboss&show_icons=true&theme=tokyonight&hide_border=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimtheboss&show_icons=true&theme=tokyonight&hide_border=true)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtheboss&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
